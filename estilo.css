@@ -96,6 +96,7 @@ figure.foto-legenda:hover figcaption {
 nav#menu {
     display: flex;
     justify-content: flex-end;
+    flex-wrap: nowrap;
 }
 
 nav#menu ul {
